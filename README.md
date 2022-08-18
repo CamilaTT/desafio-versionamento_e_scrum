@@ -1,7 +1,6 @@
 <h1 align="center">Primeiro desafio da trilha fullstack</h1> 
 <p align="center">Desafio da Sprint de versionamento e metodologias ágeis<p>
 
-<h2 align="center">Tabela de conteúdos:</h2>
 <p align="center"> 
   <a href="#Sobre o desafio">Sobre</a> -
   <a href="#objetivos">Objetivos</a> -
